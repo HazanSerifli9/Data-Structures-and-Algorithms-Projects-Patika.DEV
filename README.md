@@ -36,6 +36,9 @@ Answer a)
  
         Worst case
 
+
+Second Question        
+
     [7,3,5,8,2,9,4,15,6]
 
    Answer 
